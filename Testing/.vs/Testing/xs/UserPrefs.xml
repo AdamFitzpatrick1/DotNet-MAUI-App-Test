@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{3B8DEF0D-495E-4934-A285-88473AEBBA2F}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Testing/MainPage.xaml.cs">
+    <Files>
+      <File FileName="Testing/MainPage.xaml.cs" Line="25" Column="1" />
+      <File FileName="Testing/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="../../../../usr/local/share/dotnet/packs/Microsoft.iOS.Sdk/16.4.7132/tools/msbuild/iOS/Xamarin.Shared.targets" Line="1725" Column="3" />
+      <File FileName="Testing/App.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Testing" expanded="True">
+            <Node name="Testing" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.ItemProperties.Testing PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
